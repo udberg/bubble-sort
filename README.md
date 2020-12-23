@@ -14,8 +14,6 @@ Additional description about the project and its features.
 - LINTERS, VSCODE, REPL.IT
 
 
-
-
 ## Getting Started
 
 **This is an example of how you may give instructions on setting up your project locally.**
@@ -41,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/udberg/bubble-sort/issues).
 
 ## Show your support
 
