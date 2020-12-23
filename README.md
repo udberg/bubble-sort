@@ -22,7 +22,15 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Linters
+
+Install some dependencies by running the following command
+
+npm install --save-dev stylelint@13.3.x stylelint-scss@3.17.x stylelint-config-standard@20.0.x stylelint-csstree-validator
+
+Run the following command to check linters
+
+npx stylelint "*/.{css,scss}"
 
 
 ## Author
