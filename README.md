@@ -2,11 +2,13 @@
 
 # Advanced Building Blocks - Bubble Sort
 
-> One paragraph statement about the project.
+> Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The pass through the list is repeated until the list is sorted.
 
 
+In this project, there are two methods bubble_sort and bubble_sort_by.
 
-Additional description about the project and its features.
+bubble_sort method sorts the array of integers in ascending order.
+bubble_sort_by method sorts the array of strings in ascending order based on the number of characters in the string.
 
 ## Built With
 
