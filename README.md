@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Advanced Building Blocks - Bubble Sort
 
 > One paragraph statement about the project.
 
@@ -10,13 +10,10 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- RUBY
+- LINTERS, VSCODE, REPL.IT
 
-## Live Demo
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -29,31 +26,16 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
 
-### Install
+## Author
 
-### Usage
+👤 udberg
 
-### Run tests
-
-### Deployment
-
+- GitHub: [@udberg](https://github.com/udberg)
+- Twitter: [@juduak_](https://twitter.com/juduak_)
+- LinkedIn: [Uduak John](https://www.linkedin.com/in/uduak-john-090059105/)
 
 
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -67,10 +49,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to [REPL](https://repl.it/~) for their online code editor.
+- Hat tip to [Microverse](https://github.com/microverseinc) for their Readme template.
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
