@@ -1,6 +1,6 @@
 def bubble_sort(arr)
   bubble_loop(arr) do |x, ind|
-    swap_places(arr, i) if arr[i + 1] && x > arr[ind + 1]
+    swap_places(arr, ind) if arr[ind + 1] && x > arr[ind + 1]
   end
 
   arr
