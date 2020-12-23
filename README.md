@@ -14,13 +14,21 @@ Additional description about the project and its features.
 - LINTERS, VSCODE, REPL.IT
 
 
-## Getting Started
+## To get a local copy up and running follow these simple example steps.
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Run the following commands on your terminal
 
+git clone https://github.com/udberg/bubble-sort.git
 
-To get a local copy up and running follow these simple example steps.
+cd bubble-sort
+
+git checkout -b bsort-development.
+
+You can then open the files in your local code editor or remotely at [REPL](https://repl.it/~)
+
+Have fun and hit the [issues page](https://github.com/udberg/bubble-sort/issues) for suggestions.
+
+Don't forget to leave a star. They're free...
 
 ### Linters
 
