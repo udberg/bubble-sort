@@ -8,7 +8,7 @@ end
 
 def bubble_sort_by(arr)
   bubble_loop(arr) do |_x, ind|
-    if arr[i + 1]
+    if arr[ind + 1]
       count = yield(arr[ind], arr[ind + 1])
       swap_places(arr, ind) if count.positive?
     end
@@ -19,11 +19,11 @@ end
 
 def bubble_loop(arr)
   arr.length.times do
-    arr.each.with_index { |x, i| yield(x, ind) }
+    arr.each.with_index { |x, ind| yield(x, ind) }
   end
 end
 
-def swap_places(arr, i)
+def swap_places(arr, ind)
   arr[ind], arr[ind + 1] = arr[ind + 1], arr[ind]
 end
 
